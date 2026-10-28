@@ -81,7 +81,6 @@ Precision, Recall, F1-score, and ROC-AUC may be used to evaluate implemented mod
   <li>Add interactive visualizations and reporting.</li>
 </ul>
 
-## 👥 Contributors
 
 ## 👥 Contributors
 
