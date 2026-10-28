@@ -1,4 +1,3 @@
-# cybersecurity-threat-detection
 # 🔐 Cybersecurity Threat Intelligence &amp; Anomaly Detection
 
 <p align="center">
